@@ -4,3 +4,4 @@ download dawn extension : https://chromewebstore.google.com/detail/dawn-validato
 
 Lakukan register dan gunakan kode : tg0ffx
 
+Install script git clone 
